@@ -23,7 +23,7 @@
             // +------+------+------+------+  
 
             bindings = <
-&kp LEFT_CONTROL  &kp LEFT_ALT     &kp DEL          &kp PRINTSCREEN
+&kp LEFT_CONTROL  &kp LEFT_ALT     &kp DEL          &kp BACKSPACE
 &kp KP_NUMBER_9   &kp KP_NUMBER_8  &kp KP_NUMBER_7  &kp ESCAPE
 &kp KP_NUMBER_6   &kp KP_NUMBER_5  &kp KP_NUMBER_4  &lt 1 KP_NUMBER_3  &tog BLUETOOTH
 &kp KP_NUMBER_2   &kp KP_NUMBER_1  &kp KP_NUMBER_0  &kp KP_ENTER
